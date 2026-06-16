@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vino spumante brut biancospino - Informazioni Nutrizionali</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  max-width: 650px;
+  margin: auto;
+  padding: 20px;
+  color: #111;
+}
+
+h1, h2 {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Vino spumante brut biancospino</h1>
+
+<h2>Lista ingredienti</h2>
+<ul>
+  <li>Uva (Ingredienti generali)</li>
+  <li>Vino (mosto, E220) (Ingredienti generali)</li>
+  <li>Gomma arabica (Agenti stabilizzanti)</li>
+  <li>Bisolfito di potassio (Conservanti)</li>
+  <li>Confezionato in atmosfera protettiva (Gas di imballaggio)</li>
+  <li>Mosto d'uva (Dolcificanti)</li>
+</ul>
+
+<h2>Dichiarazione nutrizionale (per 100 ml)</h2>
+
+<table>
+<tr><td><strong>Energia</strong></td><td>293 kJ / 70 kcal</td></tr>
+<tr><td><strong>Grassi</strong></td><td>0 g</td></tr>
+<tr><td>di cui acidi grassi saturi</td><td>0 g</td></tr>
+<tr><td><strong>Carboidrati</strong></td><td>0,9 g</td></tr>
+<tr><td>di cui zuccheri</td><td>0,9 g</td></tr>
+<tr><td><strong>Proteine</strong></td><td>0,02 g</td></tr>
+<tr><td><strong>Sale</strong></td><td>0,02 g</td></tr>
+</table>
+
+<h2>Etichetta Ambientale </h2>
+
+<table>
+<tr><td>Bottiglia</td><td>GL 71, <strong>Raccolta Vetro</strong></td></tr>
+<tr><td>Tappo Sughero</td><td>FOR 51, <strong>Raccolta Differenziata</strong></td></tr>
+<tr><td>Gabbietta</td><td>FE40, <strong>Raccolta Acciaio</strong></td></tr>
+<tr><td>Capsula</td><td>C/ALU 90, <strong>Raccolta Plastica/Alluminio</strong></td></tr>
+
+</table>
+</body>
+</html>
